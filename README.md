@@ -1,16 +1,5 @@
 # pomodoro
 
-A new Flutter project.
+State Practicing with Flutter, Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![simulator_screenshot_014CF77F-06FB-4340-AD6E-82B2DFC77846](https://user-images.githubusercontent.com/84823612/204123472-8048cc6f-6771-4fb3-8397-d864dfb2deb1.png)
